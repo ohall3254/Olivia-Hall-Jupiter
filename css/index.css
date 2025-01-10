@@ -1,0 +1,41 @@
+h1 {
+    color: white;
+    background-color: #326093;
+    font-size: 3em;
+    font-weight: 600;
+}
+
+#Olivia_Photo {
+    width: 20em;
+    margin: auto auto 2em;
+}
+
+body {
+    background-color: lightblue;
+    color: rgb(67, 66, 66);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5%;
+}
+
+h2 {
+    color: white;
+    background-color: #11CBE9;
+    font-size: 2em;
+    font-weight: 200;
+    margin: auto auto 0.6em;
+}
+
+section {
+    margin: auto auto 2em;
+}
+
+ul {
+    list-style: outside;
+    margin: auto -0.4em auto; 
+}
+
+li::marker {
+    color: #11CBE9;
+}
+
+/*  h2 margin: 1em auto .5em; */ 
